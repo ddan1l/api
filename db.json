@@ -9,7 +9,7 @@
          "image": "f1ga2343h4bc3534fa",
          "description":"Очень жесткий",
          "discount":true,
-         "discountPrice":155,
+         "oldPrice":155,
          "price":215
       },
       {
@@ -21,7 +21,7 @@
          "image": "537f2ha8b321adf676",
          "description":"ууууй",
          "discount":false,
-         "discountPrice":0,
+         "oldPrice":0,
          "price":175
       },
         {
@@ -33,7 +33,7 @@
          "image": "f1ga2343h4bc3534fa",
          "description":"Очень жесткий",
          "discount":true,
-         "discountPrice":155,
+         "oldPrice":155,
          "price":215
       },
       {
@@ -45,7 +45,7 @@
          "image": "537f2ha8b321adf676",
          "description":"ууууй",
          "discount":false,
-         "discountPrice":0,
+         "oldPrice":0,
          "price":175
       }
       ]
