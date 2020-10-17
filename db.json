@@ -10,7 +10,7 @@
          "description":"Очень жесткий",
          "discount":true,
          "discountPrice":155,
-         "price":215,
+         "price":215
       },
       {
          "productId":1,
@@ -22,7 +22,7 @@
          "description":"ууууй",
          "discount":false,
          "discountPrice":0,
-         "price":175,
+         "price":175
       }
       ]
     }
