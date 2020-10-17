@@ -23,6 +23,30 @@
          "discount":false,
          "discountPrice":0,
          "price":175
+      },
+        {
+         "productId":3,
+         "category":"Футболки",
+         "name":"Slayer Трешак",
+         "collection":"Треш-металл",
+         "categoryId":0,
+         "image": "f1ga2343h4bc3534fa",
+         "description":"Очень жесткий",
+         "discount":true,
+         "discountPrice":155,
+         "price":215
+      },
+      {
+         "productId":4,
+         "category":"Аксессуары",
+         "name":"Итачи шоппер",
+         "collection":"Аниме нулевых",
+         "categoryId":0,
+         "image": "537f2ha8b321adf676",
+         "description":"ууууй",
+         "discount":false,
+         "discountPrice":0,
+         "price":175
       }
       ]
     }
