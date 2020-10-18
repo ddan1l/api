@@ -4,24 +4,37 @@
          "id":0,
          "category":"Футболки",
          "name":"Slayer Трешак",
-         "collection":"Треш-металл",
-         "categoryId":0,
-         "image": "f1ga2343h4bc3534fa",
+         "images: [
+             "f1ga2343h4bc3534fa",
+             "f1ga2343h4bc3534fa",
+             "f1ga2343h4bc3534fa"
+         ],
          "description":"Очень жесткий",
          "discount":true,
          "oldPrice":155,
          "price":215,
          "url" : "slayer-treshak"
-        
       },
       {
-         "id":1,
-         "category":"Аксессуары",
+         "id": 1,
+         "category":"Шопперы",
+         "categoryUrl": "shoppers"
          "name":"Итачи шоппер",
-         "collection":"Аниме нулевых",
-         "categoryId":0,
-         "image": "537f2ha8b321adf676",
-         "description":"ууууй",
+         "images:[
+             "537f2ha8b321adf676",
+             "537f2ha8b321adf676",
+             "537f2ha8b321adf676"
+         ],
+         "care": "Машинная стирка согласно инструкции на этикетке",
+         "infotmation":[
+            "Практичный",
+            "Логотип клана учиха",
+            "Очень объемный",
+            "Крупкие ручки",
+            "Классические крой"    
+          ],
+         "structure": "100% Саржа",
+         "description":"Международный преступник  Итачи Учиха, уничтоживший весь свой клан тем не менее  просто обожал балдежные шопперы и был самым стильным в акацки.",
          "discount":false,
          "oldPrice":0,
          "price":175,
