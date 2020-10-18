@@ -1,20 +1,5 @@
     {
     "novelties":[
-     {
-         "id":0,
-         "category":"Футболки",
-         "name":"Slayer Трешак",
-         "images: [
-             "f1ga2343h4bc3534fa",
-             "f1ga2343h4bc3534fa",
-             "f1ga2343h4bc3534fa"
-         ],
-         "description":"Очень жесткий",
-         "discount":true,
-         "oldPrice":155,
-         "price":215,
-         "url" : "slayer-treshak"
-      },
       {
          "id": 1,
          "category":"Шопперы",
