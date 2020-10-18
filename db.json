@@ -6,8 +6,8 @@
          "categoryUrl": "shoppers",
          "name": "Итачи шоппер",
          "images":[
-             { image: "537f2ha8b321adf676"},
-             { image: "537f2ha8b321adf676"}
+             { "image": "537f2ha8b321adf676"},
+             { "image": "537f2ha8b321adf676"}
          ],
          "care": "Машинная стирка согласно инструкции на этикетке",
          "infotmation":[
