@@ -1,39 +1,9 @@
     {
-    "novelties":[
-{
-         "id": 1,
-         "category":"Шопперы",
-         "categoryUrl": "shoppers",
-         "name": "Итачи шоппер",
-         "images":[
-             { "image": "537f2ha8b321adf676"},
-             { "image": "537f2ha8b321adf676"}
-         ],
-         "care": "Машинная стирка согласно инструкции на этикетке",
-         "information":[
-            {"string": "Практичный"},
-            {"string": "Крепкие ручки"},
-            {"string": "Классный"},
-            {"string": "Актуальный"}
-          ],
-         "sizes":[
-             {"size": "40×40"},
-             {"size": "20×20"}
-         ], 
-         "color": "Черный",
-         "structure": "100% Саржа",
-         "description":"Международный преступник  Итачи Учиха, уничтоживший весь свой клан тем не менее  просто обожал балдежные шопперы и был самым стильным в акацки.",
-         "discount":true,
-         "oldPrice":220,
-         "price":175,
-         "url": "itachi-shopper"
-      }
-      ],
-         "catalog":[
+    "catalog":[
       {
          "id": 1,
          "category":"Шопперы",
-         "categoryUrl": "shoppers",
+         "categoryUrl": "shoppery",
          "name": "Итачи шоппер",
          "images":[
              { "image": "537f2ha8b321adf676"},
@@ -57,6 +27,34 @@
          "oldPrice":220,
          "price":175,
          "url": "itachi-shopper"
+      },
+        {
+         "id": 2,
+         "category":"Футболки",
+         "categoryUrl": "futbolki",
+         "name": "Slayer Hell Awaits",
+         "images":[
+             { "image": "f1ga2343h4bc3534fa"},
+             { "image": "f1ga2343h4bc3534fa"},
+             { "image": "f1ga2343h4bc3534fa"}
+         ],
+         "care": "Стирать руками, кровью поверженных противников, что посмели посягнуться на настоящий РОООЦК",
+         "information":[
+            {"string": "Лютый треш"},
+            {"string": "Бомбезный дизайн"},
+            {"string": "Комфортная носка"}
+          ],
+          "sizes":[
+             {"size": "XL"},
+             {"size": "L"}
+         ], 
+          "color": "Черный",
+         "structure": "100% РООЦК",
+         "description":"Slayer ([ˈsleɪə], с англ. — «Убийца»), а значит этот принт создан для подавления и управления",
+         "discount":false,
+         "oldPrice":0,
+         "price":195,
+         "url": "slayer-hell-awaits"
       }
       ]
     } 
