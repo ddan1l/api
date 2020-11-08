@@ -28,12 +28,6 @@
       "DB1101 - Basic SQL"
     ]
   }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
   "skills": [{
     "name": "Web Development",
     "level": "Master",
@@ -47,16 +41,4 @@
     "language": "English",
     "fluency": "Native speaker"
   }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
-  }]
-
 }
