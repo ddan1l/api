@@ -1,6 +1,6 @@
 {
         basics: {
-            name: "Danil",
+            name: "Dsssanil",
             surName: "Pospelov",
             label: "Web Developer & Front-end Expert",
             location: "Ukraine",
@@ -15,14 +15,7 @@
             }
         },
         about: {
-            intro: " Lorem ipsum dolor sit amet, consectetur adipiscing elit." +
-                " Morbi vitae bibendum metus. Duis auctor arcu urna, eget sodales" +
-                " massa mollis et. Fusce ornare aliquet felis, vel congue sapien" +
-                " semper ac. Nullam aliquam odio nulla, sed condimentum dui tempor" +
-                " ullamcorper.\n\n  Morbi aliquet dapibus molestie. Fusce rutrum" +
-                " vitae arcu non dapibus. Morbi id fermentum augue. Sed iaculis metus " +
-                "quam, ac placerat diam aliquet ut. Morbi sit amet tristique sem. Ut vitae nisi velit."+
-                "Quisque condimentum, urna et euismod auctor, massa velit viverra ipsum,"
+            intro: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae bibendum metus. Duis auctor arcu urna, eget sodales massa mollis et. Fusce ornare aliquet felis, vel congue sapiensemper ac. Nullam aliquam odio nulla, sed condimentum dui temporullamcorper.\n\n  Morbi aliquet dapibus molestie. Fusce rutrumvitae arcu non dapibus. Morbi id fermentum augue. Sed iaculis metusquam, ac placerat diam aliquet ut. Morbi sit amet tristique sem. Ut vitae nisi velit.Quisque condimentum, urna et euismod auctor, massa velit viverra ipsum,"
         },
         skills: {
             basic: [
