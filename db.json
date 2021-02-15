@@ -1,44 +1,47 @@
 {
-  "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
-    "picture": "https://image.flaticon.com/icons/png/512/560/560216.png",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321"
-  },
-  "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Started the company"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }]
+        basics: {
+            name: "Danil",
+            surName: "Pospelov",
+            label: "Web Developer & Front-end Expert",
+            location: "Ukraine",
+            web: "http://jimmysblog.com",
+            picture: "https://scontent.fmpw1-1.fna.fbcdn.net/v/t1.0-1/s320x320/151039687_109683187825108_1847151376088827585_n.jpg?_nc_cat=107&ccb=3&_nc_sid=7206a8&_nc_ohc=JTMHoZ-aDAcAX-b8Vmc&_nc_ht=scontent.fmpw1-1.fna&tp=7&oh=643644eebd8b376b305aa87793b7e4af&oe=604D4C95",
+            email: "pospgv14@gmail.com",
+            phone: "(380) 98-567-7697",
+            links: {
+                instagram: "https://www.instagram.com/",
+                facebook: "https://www.facebook.com",
+                twitter: "https://twitter.com"
+            }
+        },
+        about: {
+            intro: " Lorem ipsum dolor sit amet, consectetur adipiscing elit." +
+                " Morbi vitae bibendum metus. Duis auctor arcu urna, eget sodales" +
+                " massa mollis et. Fusce ornare aliquet felis, vel congue sapien" +
+                " semper ac. Nullam aliquam odio nulla, sed condimentum dui tempor" +
+                " ullamcorper.\n\n  Morbi aliquet dapibus molestie. Fusce rutrum" +
+                " vitae arcu non dapibus. Morbi id fermentum augue. Sed iaculis metus " +
+                "quam, ac placerat diam aliquet ut. Morbi sit amet tristique sem. Ut vitae nisi velit."+
+                "Quisque condimentum, urna et euismod auctor, massa velit viverra ipsum,"
+        },
+        skills: {
+            basic: [
+                {
+                    title: "HTML / CSS",
+                    description:  "I can type almost any responsive template using pure HTML, CSS or using post and preprocessors like Pug, Jade, Stylus, SASS and so on. If only I was given a sensible web designer. Also, I am familiar with such Css frameworks as Materialize, Bootstrap, Semantic UI."
+                },
+                {
+                    title: "JS frameworks",
+                    description:  "I've been friends with JavaScript component frameworks for about two years now. I give my preference to Vue and React. I believe that I am well versed in the main issues regarding the development of user interfaces and the creation of full-fledged SPA applications."
+                },
+                {
+                    title: "Backend",
+                    description:  "As an API for my web applications, I mostly use pure PHP hosted on an Apache or Nnginx web server, but also had development experience using Node.js."
+                },
+                {
+                    title: "Database",
+                    description:  "In my practice, I used the following databases: MariaDB, PostgreSQL, Microsoft SQL Server. From NoSQL, this is MongoDB, and in addition to this Cloud Firestore and Realtime Database from Firebase."
+                },
+            ],
+        }
 }
