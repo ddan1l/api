@@ -15,7 +15,7 @@
     }
   },
   "about":{
-    "intro":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae bibendum metus. Duis auctor arcu urna, eget sodales massa mollis et. Fusce ornare aliquet felis, vel congue sapiensemper ac. Nullam aliquam odio nulla, sed condimentum dui temporullamcorper.\n\n  Morbi aliquet dapibus molestie. Fusce rutrumvitae arcu non dapibus. Morbi id fermentum augue. Sed iaculis metusquam, ac placerat diam aliquet ut. Morbi sit amet tristique sem. Ut vitae nisi velit.Quisque condimentum, urna et euismod auctor, massa velit viverra ipsum,"
+    "intro":"Welcome to my resume! My name is Danil and i'm a young, but no less confident developer in the field of web programming. And all because I am ready to achieve the necessary goals, I strive to study modern technologies, invent and create something of my own.\n\n I mainly specialize in building cascading user interfaces and basically fronted part of an application, with a really beautiful architecture using JavaScript component frameworks like the great Vue.js and the inimitable React."
   },
   "skills":{
     "basic":[
