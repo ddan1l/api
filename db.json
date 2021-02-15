@@ -8,6 +8,7 @@
     "picture":"https://scontent.fmpw1-1.fna.fbcdn.net/v/t1.0-1/s320x320/151039687_109683187825108_1847151376088827585_n.jpg?_nc_cat=107&ccb=3&_nc_sid=7206a8&_nc_ohc=JTMHoZ-aDAcAX-b8Vmc&_nc_ht=scontent.fmpw1-1.fna&tp=7&oh=643644eebd8b376b305aa87793b7e4af&oe=604D4C95",
     "email":"pospgv14@gmail.com",
     "phone":"(380) 98-567-7697",
+    "education": "Mariupol State University (2015-2020)",
     "links":{
       "instagram":"https://www.instagram.com/",
       "facebook":"https://www.facebook.com",
@@ -17,7 +18,6 @@
   "about":{
     "intro":"Welcome to my resume! My name is Danil and i'm a young, but no less confident developer in the field of web programming. And all because I am ready to achieve the necessary goals, I strive to study modern technologies, invent and create something of my own.\n\n I mainly specialize in building cascading user interfaces and basically fronted part of an application, with a really beautiful architecture using JavaScript component frameworks like the great Vue.js and the inimitable React."
   },
-  "education": "Mariupol State University (2015-2020)",
   "skills":{
     "basic":[
       {
